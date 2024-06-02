@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.local
+
+# VS Code directory
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Operating system files
+Thumbs.db # Windows-specific files
